@@ -1,0 +1,5 @@
+models.py is the model with extension
+vanilla_model.py is native CRF without extension
+
+To run native CRF, rename it to model.py
+
